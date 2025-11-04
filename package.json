@@ -9,7 +9,9 @@
   "categories": [
     "Other"
   ],
-  "activationEvents": [],
+  "activationEvents": [
+    "onCommand:cm7.showDemo"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
